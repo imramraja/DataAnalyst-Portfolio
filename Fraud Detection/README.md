@@ -41,6 +41,6 @@ In this project, I worked with a large-scale transactional dataset with both tra
 🎯 Want to skip the code and just view insights?  
 Download the full **project report PDF** with charts and conclusions:
 
-📎 [Download: Final_Fraud_Analytics_Report.pdf](https://github.com/imramraja/DataAnalyst-Portfolio/blob/main/Fraud_Analytics_Report.pdf)
+📎 [Download: Final_Fraud_Analytics_Report.pdf](https://github.com/imramraja/DataAnalyst-Portfolio/blob/main/Fraud%20Detection/Fraud%20Detection%20Analysis.pdf)
 
 ---
