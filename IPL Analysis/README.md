@@ -35,7 +35,7 @@ I collected and cleaned IPL match data from publicly available sources and built
 ## 📊 Live Demo
 
 Explore my published dashboard here:  
-🔗 [IPL Analysis Dashboard (Power BI)](<iframe title="ipl cricket analysis project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDQxYWVmNGItNjA2Yi00MjdiLWIyMjgtMWIwNjgzYmI2MDM1IiwidCI6ImIxMWMzNGNjLWQ2YTMtNDQyZi05NThlLTQ5YTFmZmQ0NzMyNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+🔗 [IPL Analysis Dashboard (Power BI)](<iframe title="ipl cricket analysis project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDQxYWVmNGItNjA2Yi00MjdiLWIyMjgtMWIwNjgzYmI2MDM1IiwidCI6ImIxMWMzNGNjLWQ2YTMtNDQyZi05NThlLTQ5YTFmZmQ0NzMyNCJ9 frameborder="0" allowFullScreen="true"></iframe>)"
 
 ---
 
