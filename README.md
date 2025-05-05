@@ -1,73 +1,73 @@
-# Portfolio Projects  
-## Following are my projects in Python, SQL, Power BI & Excel:  
-#### *Connect with me:*  
-📧 **Email**: [yadavramraja@outlook.com](mailto:yadavramraja@outlook.com)  
-💼 **LinkedIn**: [Ramraja's LinkedIn](https://www.linkedin.com/in/yourprofile)  
-💻 **GitHub**: [Ramraja's GitHub](https://github.com/yourusername)  
+# 📊 Data Analyst Portfolio
+
+Welcome to my data analytics portfolio! I'm Ramraja Yadav, a data analyst skilled in Python, SQL, Power BI, and Excel. This repository showcases my work across various domains, including e-commerce, healthcare, fraud detection, and sports analytics.
 
 ---
 
-### [x] **Python & Power BI**  
-- **Multi-Segment Revenue Forecasting**  
-  *Tools:* Python (ARIMA, SARIMAX), Power BI, SQL  
-  - Forecasted revenue for 1,115 retail stores using time-series models.  
-  - **[View Power BI Dashboard](link_to_powerbi_dashboard)** | **[Python Script](https://github.com/yourusername/revenue-forecasting)**  
-  ![Revenue Dashboard](visuals/revenue_dashboard.png)  
+## 📬 Connect with Me
 
-- **Financial Portfolio Risk Analysis**  
-  *Tools:* Monte Carlo Simulations, Linear Programming  
-  - Calculated Value at Risk (VaR) and optimized portfolios.  
-  **[Jupyter Notebook](https://github.com/yourusername/portfolio-risk-analysis)** | **[Power BI Report](link_to_powerbi_report)**  
-  ![Risk Analysis](visuals/risk_dashboard.png)  
+- **Email**: [yadavramraja@outlook.com](mailto:yadavramraja@outlook.com)
+- **LinkedIn**: [Ramraja's LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **GitHub**: [Ramraja's GitHub](https://github.com/imramraja)
 
 ---
 
-### [x] **SQL & ETL**  
-- **Supply Chain Optimization Analysis**  
-  *Tools:* SQL, Power BI  
-  - Reduced material shortages by 20% through predictive modeling.  
-  **[SQL Script](https://github.com/yourusername/supply-chain-sql)** | **[ETL Workflow](https://github.com/yourusername/etl-pipeline)**  
+## 🛍️ E-Commerce Analytics
 
-- **IFDSS Project Cost Analysis**  
-  *Tools:* Excel, Power BI  
-  - Automated financial reports, saving 31% processing time.  
-  **[SQL Queries](https://github.com/yourusername/cost-analysis)** | **[Dashboard](link_to_powerbi_dashboard)**  
+**Tools**: Python (Pandas, NumPy), Power BI, SQL
 
----
+- Conducted comprehensive analysis of e-commerce sales data to identify trends, customer behavior, and product performance.
+- Developed interactive dashboards in Power BI to visualize key metrics and KPIs.
+- Utilized SQL for data extraction and transformation to support analytical workflows.
 
-### [x] **Machine Learning**  
-- **E-commerce CLV Modeling**  
-  *Tools:* RFM Analysis, Logistic Regression  
-  - Improved customer retention by 22% with 85% accuracy.  
-  **[Python Code](https://github.com/yourusername/clv-model)** | **[Power BI Insights](link_to_powerbi_dashboard)**  
-  ![CLV Segmentation](visuals/clv_segments.png)  
-
-- **Marketing Mix Modeling**  
-  *Tools:* Bayesian Analysis, Time-Series Regression  
-  - Boosted campaign ROI by 18% using causal inference.  
-  **[Notebook](https://github.com/yourusername/marketing-mix)** | **[Scenario Analysis](link_to_powerbi_dashboard)**  
+🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/E-Commerce%20Analytics)
 
 ---
 
-### [x] **Excel & Automation**  
-- **Financial Reporting Automation**  
-  *Tools:* Excel VBA  
-  - Reduced manual effort by 31% through macros.  
-  **[VBA Script](https://github.com/yourusername/excel-vba)**  
-  ![Automation Demo](visuals/excel_automation.gif)  
+## 🕵️ Fraud Detection
 
-- **Inventory Optimization Model**  
-  *Tools:* Excel Solver, Scenario Manager  
-  - Streamlined inventory planning using linear programming.  
-  **[Excel File](https://github.com/yourusername/inventory-model)**  
-  ![Solver Output](visuals/solver_screenshot.png)  
+**Tools**: Python (Scikit-learn, Matplotlib), SQL
+
+- Built a machine learning model to detect fraudulent transactions in financial data.
+- Applied classification algorithms and evaluated model performance using metrics like accuracy, precision, and recall.
+- Processed and cleaned data using SQL queries to prepare datasets for modeling.
+
+🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/Fraud%20Detection)
 
 ---
 
-### [x] **Certifications**  
-- **Data Analytics Certification** - AlexTheAnalyst  
-- **Machine Learning Specialization** - Coursera  
+## 🏥 Healthcare Data Analysis: Insights into Patient Care and Hospital Operations
+
+**Tools**: Python (Pandas, Matplotlib), Power BI, SQL
+
+- Analyzed hospital patient data to uncover insights into patient care quality and operational efficiency.
+- Created visualizations in Power BI to present findings to stakeholders.
+- Employed SQL for data manipulation and aggregation to support analysis.
+
+🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/Healthcare%20Data%20Analysis%3A%20Insights%20into%20Patient%20Care%20and%20Hospital%20Operations)
 
 ---
 
-⭐ **Explore the repositories above for detailed code, datasets, and dashboards!**  
+## 🏏 IPL Analysis
+
+**Tools**: Python (Pandas, Seaborn), SQL
+
+- Performed exploratory data analysis on Indian Premier League (IPL) match data to identify patterns and insights.
+- Visualized player and team performance metrics using Seaborn and Matplotlib.
+- Utilized SQL for data extraction and preparation from relational databases.
+
+🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/IPL%20Analysis)
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages**: Python, SQL
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Data Analysis**: Pandas, NumPy
+- **Database Management**: MySQL, PostgreSQL
+- **Machine Learning**: Scikit-learn
+
+---
+
+Feel free to explore each project to see the code, analyses, and visualizations. If you have any questions or would like to collaborate, don't hesitate to reach out!
