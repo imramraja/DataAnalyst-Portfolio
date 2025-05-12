@@ -1,73 +1,93 @@
-# 📊 Data Analyst Portfolio
+# Data Analyst Portfolio
 
-Welcome to my data analytics portfolio! I'm Ramraja Yadav, a data analyst skilled in Python, SQL, Power BI, and Excel. This repository showcases my work across various domains, including e-commerce, healthcare, fraud detection, and sports analytics.
-
----
-
-## 📬 Connect with Me
-
-- **Email**: [yadavramraja@outlook.com](mailto:yadavramraja@outlook.com)
-- **LinkedIn**: [Ramraja's LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Ramraja's GitHub](https://github.com/imramraja)
+Welcome to my data analytics portfolio! I'm **Ramraja**, a data analyst proficient in Python, SQL, Power BI, and Excel. This repository showcases my diverse projects across e-commerce, healthcare, fraud detection, sports, supply chain, and Olympic performance analytics.
 
 ---
 
-## 🛍️ E-Commerce Analytics
+## 🔗 Connect with Me
 
-**Tools**: Python (Pandas, NumPy), Power BI, SQL
-
-- Conducted comprehensive analysis of e-commerce sales data to identify trends, customer behavior, and product performance.
-- Developed interactive dashboards in Power BI to visualize key metrics and KPIs.
-- Utilized SQL for data extraction and transformation to support analytical workflows.
-
-🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/E-Commerce%20Analytics)
+- **Email:** yadavramraja@outlook.com  
+- **LinkedIn:** [Ramraja Yadav](https://www.linkedin.com/in/ramrajayadav/)  
+- **GitHub:** [imramraja](https://github.com/imramraja/DataAnalyst-Portfolio/)
 
 ---
 
-## 🕵️ Fraud Detection
+## 📂 Projects
 
-**Tools**: Python (Scikit-learn, Matplotlib), SQL
+### 1. E-Commerce Analytics
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Description:** Conducted a comprehensive analysis of e-commerce sales data to uncover trends, customer purchase behavior, and product performance.  
+- **Highlights:**  
+  - Performed data cleaning and preprocessing using Pandas and NumPy.  
+  - Visualized sales trends and customer segmentation using Matplotlib and Seaborn.  
 
-- Built a machine learning model to detect fraudulent transactions in financial data.
-- Applied classification algorithms and evaluated model performance using metrics like accuracy, precision, and recall.
-- Processed and cleaned data using SQL queries to prepare datasets for modeling.
-
-🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/Fraud%20Detection)
-
----
-
-## 🏥 Healthcare Data Analysis: Insights into Patient Care and Hospital Operations
-
-**Tools**: Python (Pandas, Matplotlib), Power BI, SQL
-
-- Analyzed hospital patient data to uncover insights into patient care quality and operational efficiency.
-- Created visualizations in Power BI to present findings to stakeholders.
-- Employed SQL for data manipulation and aggregation to support analysis.
-
-🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/Healthcare%20Data%20Analysis%3A%20Insights%20into%20Patient%20Care%20and%20Hospital%20Operations)
+[Explore the repository »](./E-Commerce%20Analytics)
 
 ---
 
-## 🏏 IPL Analysis
+### 2. Fraud Detection
+- **Tools:** Python (Scikit-learn, Matplotlib, Seaborn)  
+- **Description:** Developed a machine learning pipeline to detect fraudulent financial transactions.  
+- **Highlights:**  
+  - Implemented classification models (Logistic Regression, Random Forest) and evaluated their performance.  
+  - Visualized model results and feature importance using Matplotlib and Seaborn.  
 
-**Tools**: Python (Pandas, Seaborn), SQL
+[Explore the repository »](./Fraud%20Detection)
 
-- Performed exploratory data analysis on Indian Premier League (IPL) match data to identify patterns and insights.
-- Visualized player and team performance metrics using Seaborn and Matplotlib.
-- Utilized SQL for data extraction and preparation from relational databases.
+---
 
-🔗 [GitHub Repository](https://github.com/imramraja/DataAnalyst-Portfolio/tree/main/IPL%20Analysis)
+### 3. Healthcare Data Analysis
+- **Tools:** SQL  
+- **Description:** Analyzed hospital patient data to generate insights on care quality and operational efficiency.  
+- **Highlights:**  
+  - Executed complex SQL queries to extract and aggregate clinical data.  
+  - Derived key performance indicators related to patient throughput and resource utilization.  
+
+[Explore the repository »](./Healthcare%20Data%20Analysis%3A%20Insights%20into%20Patient%20Care%20and%20Hospital%20Operations)
+
+---
+
+### 4. IPL Analysis
+- **Tools:** Power BI  
+- **Description:** Explored Indian Premier League match data to identify performance patterns and strategic insights.  
+- **Highlights:**  
+  - Designed interactive dashboards to visualize batting, bowling, and fielding metrics.  
+  - Enabled dynamic filtering to compare player and team performances across seasons.  
+
+[Explore the repository »](./IPL%20Analysis)
+
+---
+
+### 5. Olympic Performance Analytics
+- **Tools:** Power BI  
+- **Description:** Analyzed historical Olympic data to uncover medal trends, country performances, and sport-wise dominance.  
+- **Highlights:**  
+  - Created comprehensive dashboards showcasing medal counts and athlete statistics.  
+  - Facilitated user-driven exploration through slicers and filters for detailed insights.  
+
+[Explore the repository »](./Olympic)
+
+---
+
+### 6. Supply Chain Management Analytics
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Description:** Evaluated supply chain metrics such as inventory turnover, order fulfillment times, and demand forecasting.  
+- **Highlights:**  
+  - Developed forecasting models to predict inventory requirements and minimize stockouts.  
+  - Visualized key logistics KPIs to monitor and improve supply chain efficiency.  
+
+[Explore the repository »](./Supply%20Chain%20Management%20Analytics)
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Programming Languages**: Python, SQL
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Data Analysis**: Pandas, NumPy
-- **Database Management**: MySQL, PostgreSQL
-- **Machine Learning**: Scikit-learn
+- **Programming Languages:** Python, SQL  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Data Analysis:** Pandas, NumPy  
+- **Database Management:** MySQL, PostgreSQL  
+- **Machine Learning:** Scikit-learn
 
 ---
 
-Feel free to explore each project to see the code, analyses, and visualizations. If you have any questions or would like to collaborate, don't hesitate to reach out!
+Feel free to explore each project for detailed code, analyses, and visualizations. If you have any questions or collaboration ideas, please reach out!
